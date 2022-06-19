@@ -111,6 +111,6 @@ async def ws(event):
 
 byte_txt = 'By github.com/The-UnknownDev | t.me/Arpit_Chaurasiya\n'
 byte_txt += 'Any questions? Say it at t.me/ByteBotsSupprt\n'
-byte_txt += f'{BYTEBOT_NAME} started! Developed and Maintaned by Null\n'
-print(null_txt)
+byte_txt += f'{BYTEBOT_NAME} started! Developed and Maintaned by Arpit\n'
+print(byte_txt)
 byte.run_until_disconnected()
